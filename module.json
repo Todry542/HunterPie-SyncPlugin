@@ -3,7 +3,7 @@
     "EntryPoint": "main.cs",
     "Description": "Part and ailment synchronization for HunterPie",
     "Author": "Kaedras",
-    "Version": "1.1.3",
+    "Version": "2.0",
     "Dependencies": [
         "lib\\System.Web.dll"
     ],
