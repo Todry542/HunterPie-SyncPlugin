@@ -82,7 +82,7 @@ namespace HunterPie.Plugins {
     }
 
     public class SyncPlugin : IPlugin {
-        private const string ServerUrl = "http://mhwsync.herokuapp.com";
+        private const string ServerUrl = "https://toluris.ovh/syncplugin/";
         private const int ApiVersion = 2;
         private string configPath = "";
         private int retries = 5;
