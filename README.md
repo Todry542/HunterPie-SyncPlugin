@@ -9,11 +9,11 @@ Description:
 --------------
 This is a plugin for [HunterPie](https://github.com/Haato3o/HunterPie) that synchronizes Part and Ailment data between clients.
 
-The server is open source and available [here](https://github.com/Kaedras/mhwsync).<br>
-It is currently deployed on a free Heroku dyno, so there could be performance issues if the number of users becomes too high.
+The server is open source and available [here](https://hub.docker.com/r/todry542/mhwsync).<br>
+It is currently deployed on my own server. Please by nice with ;)
 
 Please note that this plugin has not undergone extensive testing yet as I can't test it properly without the help of other players.
 
 Installation:
 ---------------
-Download [module.json](https://raw.githubusercontent.com/Kaedras/HunterPie-SyncPlugin/master/module.json) and drag the file into you HunterPie application window.
+Download [module.json](https://raw.githubusercontent.com/Todry542/HunterPie-SyncPlugin/master/module.json) and drag the file into you HunterPie application window.
