@@ -8,7 +8,7 @@
         "lib\\System.Web.dll"
     ],
     "Update": {
-        "UpdateUrl": "https://raw.githubusercontent.com/Todry542/HunterPie-SyncPlugin/master/",
+        "UpdateUrl": "https://github.com/Todry542/HunterPie-SyncPlugin/releases/latest/download/",
         "MinimumVersion": "1.0.4",
         "FileHashes": {
             "lib\\System.Web.dll": "02976e2dd29a5241483e0d9bf82dc823334dce41d97eeecef35ae8680547d122",
