@@ -2,8 +2,8 @@
     "Name": "SyncPlugin",
     "EntryPoint": "main.cs",
     "Description": "Part and ailment synchronization for HunterPie",
-    "Author": "Kaedras",
-    "Version": "2.0",
+    "Author": "Todry542 feat Kaedras",
+    "Version": "1.1",
     "Dependencies": [
         "lib\\System.Web.dll"
     ],
