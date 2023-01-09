@@ -1,10 +1,3 @@
-# Update:
-
-This project hasn't been maintained for about a year, and I don't plan on changing that, so I'll archive the repository.
-<br><br>
-
-
-
 Description:
 --------------
 This is a plugin for [HunterPie](https://github.com/Haato3o/HunterPie) that synchronizes Part and Ailment data between clients.
@@ -17,3 +10,20 @@ Please note that this plugin has not undergone extensive testing yet as I can't 
 Installation:
 ---------------
 Download [module.json](https://raw.githubusercontent.com/Todry542/HunterPie-SyncPlugin/master/module.json) and drag the file into you HunterPie application window.
+
+
+Compile:
+---------------
+
+<b>CAUTION</b><br>
+If you want to create your own server, you need to compile again the SyncPlugin.dll with HunterPie:<br>
+<ol>
+<li>Go to your HunterPie folder</li>
+<li>Navigue to Modules folder</li>
+<li>Create a new folder and name "SyncPlugin"</li>
+<li>Put the "main.cs" with your server url change (line 85 : variable : "ServerUrl")</li>
+<li>Copy lib folder with System.Web.dll</li>
+<li>Copy module.json</li>
+<li>In module.json delete amm after "update"</li>
+<li>Save and launch HunterPie!</li>
+</ol>
